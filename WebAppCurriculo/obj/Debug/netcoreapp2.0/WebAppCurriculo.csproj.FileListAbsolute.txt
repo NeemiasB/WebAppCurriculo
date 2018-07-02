@@ -1,0 +1,11 @@
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\bin\Debug\netcoreapp2.0\WebAppCurriculo.deps.json
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\bin\Debug\netcoreapp2.0\WebAppCurriculo.runtimeconfig.json
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\bin\Debug\netcoreapp2.0\WebAppCurriculo.runtimeconfig.dev.json
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\bin\Debug\netcoreapp2.0\WebAppCurriculo.dll
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\bin\Debug\netcoreapp2.0\WebAppCurriculo.pdb
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\obj\Debug\netcoreapp2.0\WebAppCurriculo.csprojAssemblyReference.cache
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\obj\Debug\netcoreapp2.0\WebAppCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\obj\Debug\netcoreapp2.0\WebAppCurriculo.AssemblyInfoInputs.cache
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\obj\Debug\netcoreapp2.0\WebAppCurriculo.AssemblyInfo.cs
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\obj\Debug\netcoreapp2.0\WebAppCurriculo.dll
+C:\Users\Neemias\source\repos\WebAppCurriculo\WebAppCurriculo\obj\Debug\netcoreapp2.0\WebAppCurriculo.pdb
